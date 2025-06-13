@@ -3,5 +3,15 @@
     "name": "rayan",
     "email": "rayan@gmail.com",
     "password": "$2b$10$hsJLYRmaekJlpDxDr7Gn2.e4MYQpWoC31NpnvY/4o8QharvzmB0TC"
+  },
+  {
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$Zbq2Nd3Rmrzna5fV7aQ0meBls1LqRwOnGCmlTjjKursmnLnHnuDp6"
+  },
+  {
+    "name": "user",
+    "email": "user@gmail.com",
+    "password": "$2b$10$AcdW08abChJO7hnjQV4.veE2f9gTV835Xcjl/dfxYmeG1X/Qu.c7C"
   }
 ]
